@@ -10,7 +10,7 @@
 ## 🖼️ How It Works
 Here’s what the plugin looks like in action:
 
-![CSS Grid Controls in Elementor](https://imgur.com/Hd7nked)
+![CSS Grid Controls in Elementor](https://i.imgur.com/Hd7nked.png)
 
 ### Example Controls
 - **Grid Column**: Define placement in grid columns (`auto`, `1 / span 2`, etc.).
