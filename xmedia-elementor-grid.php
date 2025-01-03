@@ -4,7 +4,7 @@
  * Plugin Name: Xmedia Elementor Grid
  * Description: Add CSS Grid controls to Elementor
  * Plugin URI: https://xmedia.nl
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Xmedia
  * Author URI: https://xmedia.nl
  * Text Domain: xmedia-elementor-grid
