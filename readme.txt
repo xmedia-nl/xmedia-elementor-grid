@@ -53,4 +53,5 @@ If you deactivate the plugin, the custom grid settings will no longer be applied
 No, the plugin is lightweight and doesn’t add unnecessary overhead to your website.
 
 == Screenshots ==
-1. Elementor menu
+
+1. The plugin's controls in the Elementor interface.
